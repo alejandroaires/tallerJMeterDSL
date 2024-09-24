@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: us.abstracta.jmeter.javadsl.sample.PrimerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 26.73 s -- in us.abstracta.jmeter.javadsl.sample.PrimerTest
